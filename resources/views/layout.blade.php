@@ -8,7 +8,7 @@
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
 </head>
-<body style="background:#eee; ">
+<body style="background:#eee;">
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <a class="navbar-brand" href="#">
     <img src="img/untitled (2).png" width="60" height="50" alt="">
@@ -63,7 +63,7 @@
         <div class="col-md-6 mt-md-0 mt-3">
 
           <!-- Content -->
-          <h5 class="text-uppercase">Footer Content</h5>
+          <h5 class="text-uppercase" style="color:white">Footer Content</h5>
           <p style="color:white">Here you can use rows and columns here to organize your footer content.</p>
 
         </div>
@@ -75,7 +75,7 @@
         <div class="col-md-3 mb-md-0 mb-3">
 
             <!-- Links -->
-            <h5 class="text-uppercase">Links</h5>
+            <h5 class="text-uppercase" style="color:white">Links</h5>
 
             <ul class="list-unstyled">
               <li>
