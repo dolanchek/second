@@ -39,7 +39,7 @@
     </ul>
   </div>
 </nav>
-<div class="w-100" style="background-image:url('img/P87Ldyu2Wy0.jpg');background-size: 100%;height:40rem;background-repeat: no-repeat;">
+<div class="w-100" style="background-image:url('img/bank-bankbook-banking-1020313.png');background-size: 100%;height:40rem;background-repeat: no-repeat;">
 	<div class="row no-gutters h-100">
 		<div class="col-6 offset-6 h-100" style="line-height: 40rem;">
 			<h2 style="color:white;line-height: 40rem">
